@@ -1,0 +1,1088 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-06-06">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="v" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="tipo" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Gustavo Nusenovich" label="Gustavo Nusenovich">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="Universidad Católica de Córdoba" label="Universidad Católica de Córdoba">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Success accademy with Peter Diamandis" label="Success accademy with Peter Diamandis">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Facultad Latinoamericana de Ciencias Sociales" label="Facultad Latinoamericana de Ciencias Sociales">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Georgia Institute of Technology" label="Georgia Institute of Technology">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="UADE" label="UADE">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Hyper Island" label="Hyper Island">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Instituto Baikal" label="Instituto Baikal">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Cannes Lions School" label="Cannes Lions School">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Corship. European Commission." label="Corship. European Commission.">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Disruptive Consulting" label="Disruptive Consulting">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Buenos Aires City Government" label="Buenos Aires City Government">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Business Angels Club de Antiguos Alumnos del IAE" label="Business Angels Club de Antiguos Alumnos del IAE">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Innovaton by Oracle" label="Innovaton by Oracle">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="WISE Women in STEM" label="WISE Women in STEM">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="FCB Buenos aires" label="FCB Buenos aires">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="AT&amp;T" label="AT&amp;T">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="NCR Corporation Full-time" label="NCR Corporation Full-time">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Ignacio Lugones" label="Ignacio Lugones">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="Universidad Nacional de La Plata" label="Universidad Nacional de La Plata">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="CardioMirai" label="CardioMirai">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Children´s Hospital of Buenos Aires &quot;Ricardo Gutiérrez&quot;" label="Children´s Hospital of Buenos Aires &quot;Ricardo Gutiérrez&quot;">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Guillermo Arias" label="Guillermo Arias">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="Universidad de Belgrano" label="Universidad de Belgrano">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Escuela Argentina Modelo" label="Escuela Argentina Modelo">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="aclases.com" label="aclases.com">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Moviclips" label="Moviclips">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Cengage Learning" label="Cengage Learning">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="New Business Solutions (NBS)" label="New Business Solutions (NBS)">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Ministerio de Hacienda" label="Ministerio de Hacienda">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Movistar Argentina" label="Movistar Argentina">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Movilgate" label="Movilgate">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Convergia Networks" label="Convergia Networks">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Wyndham Worldwide / RCI" label="Wyndham Worldwide / RCI">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Carlos Mayor" label="Carlos Mayor">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="Vistage" label="Vistage">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="UNSAM" label="UNSAM">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Universidad Austral" label="Universidad Austral">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="ENET Nro 12 Jose de San Martin" label="ENET Nro 12 Jose de San Martin">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="NIVEL UNO SERVICIOS S.A." label="NIVEL UNO SERVICIOS S.A.">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="CEITECH" label="CEITECH">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="TTI S .A." label="TTI S .A.">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="ITS Informatica Tecnologia Servicios S.A." label="ITS Informatica Tecnologia Servicios S.A.">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Electronica S.A." label="Electronica S.A.">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="ORMAS SAIC" label="ORMAS SAIC">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Juan Cruz Lozada" label="Juan Cruz Lozada">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="UCA" label="UCA">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Université Catholique de Louvain" label="Université Catholique de Louvain">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="UDESA" label="UDESA">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="UBA" label="UBA">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Colegio del Salvador" label="Colegio del Salvador">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Instituto Centroamericano de Administración de Empresas" label="Instituto Centroamericano de Administración de Empresas">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Grupo Concesionario del Oeste (GCO)" label="Grupo Concesionario del Oeste (GCO)">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Consultor Gerencial de Pymes, Coach de Directivos y Mentor de Sucesores" label="Consultor Gerencial de Pymes, Coach de Directivos y Mentor de Sucesores">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Maestrías para el Desarrollo" label="Maestrías para el Desarrollo">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Gobierno de la Ciudad de Buenos Aires" label="Gobierno de la Ciudad de Buenos Aires">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Universidad Latinoamericana de Ciencia y Tecnologia ULACIT" label="Universidad Latinoamericana de Ciencia y Tecnologia ULACIT">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Ecole Superior de Commerce de PAU" label="Ecole Superior de Commerce de PAU">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Fundación PROGREDIOR" label="Fundación PROGREDIOR">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Universidad Torcuato Di Tella" label="Universidad Torcuato Di Tella">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Arthur D. Little" label="Arthur D. Little">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Accenture" label="Accenture">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Marcio Algranti" label="Marcio Algranti">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="FGV - Fundação Getulio Vargas" label="FGV - Fundação Getulio Vargas">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Pontifícia Universidade Católica de São Paulo" label="Pontifícia Universidade Católica de São Paulo">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Colegio Santa Cruz" label="Colegio Santa Cruz">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="GVAngels" label="GVAngels">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="MBS Seguros" label="MBS Seguros">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="MONY Consultoria" label="MONY Consultoria">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Mariano Ghirardotti" label="Mariano Ghirardotti">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="Martin Santiago Gomez" label="Martin Santiago Gomez">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="Universidad Tecnológica Nacional" label="Universidad Tecnológica Nacional">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="wymaq.com" label="wymaq.com">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Laboratorios Phoenix SAICF" label="Laboratorios Phoenix SAICF">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Matias Majersky " label="Matias Majersky ">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="Siglo 21" label="Siglo 21">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="MAC Propiedades" label="MAC Propiedades">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Scanntech (market research)" label="Scanntech (market research)">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Copper Mountain Resort" label="Copper Mountain Resort">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="PwC" label="PwC">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Bank of Galicia" label="Bank of Galicia">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Mc Donalds" label="Mc Donalds">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Sergio Postigo" label="Sergio Postigo">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="Harvard University" label="Harvard University">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Universitat Autònoma de Barcelona" label="Universitat Autònoma de Barcelona">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Babson College" label="Babson College">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Växjö University" label="Växjö University">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Universidad Nacional de Córdoba" label="Universidad Nacional de Córdoba">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="www.NDAngels.net Freelance" label="www.NDAngels.net Freelance">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Ministerio de Desarrollo Productivo Freelance" label="Ministerio de Desarrollo Productivo Freelance">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="ESCP Europe" label="ESCP Europe">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Universidad de los Andes - Colombia" label="Universidad de los Andes - Colombia">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Universidad del Desarrollo" label="Universidad del Desarrollo">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Ministerio de Turismo y Deportes de Salta Contract" label="Ministerio de Turismo y Deportes de Salta Contract">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Rodrigo Córdoba" label="Rodrigo Córdoba">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="Draper University" label="Draper University">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Colegio Manuel Belgrano HHMM" label="Colegio Manuel Belgrano HHMM">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Tigoût" label="Tigoût">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Productora de Entretenimiento" label="Productora de Entretenimiento">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Servicom Global SA" label="Servicom Global SA">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Servicom Argentina" label="Servicom Argentina">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="KRAFFT" label="KRAFFT">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Rolf Epp" label="Rolf Epp">
+        <attvalues>
+          <attvalue for="0" value="Persona" />
+        </attvalues>
+      </node>
+      <node id="University of Louisville" label="University of Louisville">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="Goethe Schule" label="Goethe Schule">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+      <node id="BMW" label="BMW">
+        <attvalues>
+          <attvalue for="0" value="Institución" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Gustavo Nusenovich" target="Universidad Católica de Córdoba" id="0">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Success accademy with Peter Diamandis" id="1">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Facultad Latinoamericana de Ciencias Sociales" id="2">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Georgia Institute of Technology" id="3">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="UADE" id="4">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Hyper Island" id="5">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Instituto Baikal" id="6">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Cannes Lions School" id="7">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Corship. European Commission." id="8">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Disruptive Consulting" id="9">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Buenos Aires City Government" id="10">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Business Angels Club de Antiguos Alumnos del IAE" id="11">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="Innovaton by Oracle" id="12">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="WISE Women in STEM" id="13">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="FCB Buenos aires" id="14">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="AT&amp;T" id="15">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gustavo Nusenovich" target="NCR Corporation Full-time" id="16">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="UADE" target="Juan Cruz Lozada" id="17">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="UADE" target="Matias Majersky " id="18">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="UADE" target="Rodrigo Córdoba" id="19">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Business Angels Club de Antiguos Alumnos del IAE" target="Rodrigo Córdoba" id="20">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ignacio Lugones" target="Universidad Nacional de La Plata" id="21">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ignacio Lugones" target="CardioMirai" id="22">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ignacio Lugones" target="Children´s Hospital of Buenos Aires &quot;Ricardo Gutiérrez&quot;" id="23">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="Universidad de Belgrano" id="24">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="Escuela Argentina Modelo" id="25">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="aclases.com" id="26">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="Moviclips" id="27">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="Cengage Learning" id="28">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="New Business Solutions (NBS)" id="29">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="Ministerio de Hacienda" id="30">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="Movistar Argentina" id="31">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="Movilgate" id="32">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="Convergia Networks" id="33">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Guillermo Arias" target="Wyndham Worldwide / RCI" id="34">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Universidad de Belgrano" target="Mariano Ghirardotti" id="35">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Mayor" target="Vistage" id="36">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Mayor" target="UNSAM" id="37">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Mayor" target="Universidad Austral" id="38">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Mayor" target="ENET Nro 12 Jose de San Martin" id="39">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Mayor" target="NIVEL UNO SERVICIOS S.A." id="40">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Mayor" target="CEITECH" id="41">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Mayor" target="TTI S .A." id="42">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Mayor" target="ITS Informatica Tecnologia Servicios S.A." id="43">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Mayor" target="Electronica S.A." id="44">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Carlos Mayor" target="ORMAS SAIC" id="45">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Vistage" target="Juan Cruz Lozada" id="46">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="UNSAM" target="Marcio Algranti" id="47">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="UNSAM" target="Rodrigo Córdoba" id="48">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Universidad Austral" target="Juan Cruz Lozada" id="49">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Universidad Austral" target="Sergio Postigo" id="50">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="UCA" id="51">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Université Catholique de Louvain" id="52">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="UDESA" id="53">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="UBA" id="54">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Colegio del Salvador" id="55">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Instituto Centroamericano de Administración de Empresas" id="56">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Grupo Concesionario del Oeste (GCO)" id="57">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Consultor Gerencial de Pymes, Coach de Directivos y Mentor de Sucesores" id="58">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Maestrías para el Desarrollo" id="59">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Gobierno de la Ciudad de Buenos Aires" id="60">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Universidad Latinoamericana de Ciencia y Tecnologia ULACIT" id="61">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Ecole Superior de Commerce de PAU" id="62">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Fundación PROGREDIOR" id="63">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Universidad Torcuato Di Tella" id="64">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Arthur D. Little" id="65">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Juan Cruz Lozada" target="Accenture" id="66">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="UDESA" target="Matias Majersky " id="67">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="UDESA" target="Rolf Epp" id="68">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="UBA" target="Mariano Ghirardotti" id="69">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="UBA" target="Matias Majersky " id="70">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Marcio Algranti" target="FGV - Fundação Getulio Vargas" id="71">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Marcio Algranti" target="Pontifícia Universidade Católica de São Paulo" id="72">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Marcio Algranti" target="Colegio Santa Cruz" id="73">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Marcio Algranti" target="GVAngels" id="74">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Marcio Algranti" target="MBS Seguros" id="75">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Marcio Algranti" target="MONY Consultoria" id="76">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Martin Santiago Gomez" target="Universidad Tecnológica Nacional" id="77">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Martin Santiago Gomez" target="wymaq.com" id="78">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Martin Santiago Gomez" target="Laboratorios Phoenix SAICF" id="79">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Matias Majersky " target="Siglo 21" id="80">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Matias Majersky " target="MAC Propiedades" id="81">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Matias Majersky " target="Scanntech (market research)" id="82">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Matias Majersky " target="Copper Mountain Resort" id="83">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Matias Majersky " target="PwC" id="84">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Matias Majersky " target="Bank of Galicia" id="85">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Matias Majersky " target="Mc Donalds" id="86">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="Harvard University" id="87">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="Universitat Autònoma de Barcelona" id="88">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="Babson College" id="89">
+        <attvalues>
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="Växjö University" id="90">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="Universidad Nacional de Córdoba" id="91">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="www.NDAngels.net Freelance" id="92">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="Ministerio de Desarrollo Productivo Freelance" id="93">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="ESCP Europe" id="94">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="Universidad de los Andes - Colombia" id="95">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="Universidad del Desarrollo" id="96">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sergio Postigo" target="Ministerio de Turismo y Deportes de Salta Contract" id="97">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rodrigo Córdoba" target="Draper University" id="98">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rodrigo Córdoba" target="Colegio Manuel Belgrano HHMM" id="99">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rodrigo Córdoba" target="Tigoût" id="100">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rodrigo Córdoba" target="Productora de Entretenimiento" id="101">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rodrigo Córdoba" target="Servicom Global SA" id="102">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rodrigo Córdoba" target="Servicom Argentina" id="103">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rodrigo Córdoba" target="KRAFFT" id="104">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rolf Epp" target="University of Louisville" id="105">
+        <attvalues>
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Rolf Epp" target="Goethe Schule" id="106">
+        <attvalues>
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Rolf Epp" target="BMW" id="107">
+        <attvalues>
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
