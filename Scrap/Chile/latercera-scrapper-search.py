@@ -42,7 +42,8 @@ paginas = soup1.find('li', class_='pagination-info').get_text()
 pattern = r".{5}([0-9]{1,3}).{4}([0-9]{1,3})"
 
 p_actual =1
-p_final=int(re.search(pattern,paginas).group(2))
+#p_final=int(re.search(pattern,paginas).group(2))
+p_final=3
 #p_final= 2
 
 while (p_actual <= p_final):

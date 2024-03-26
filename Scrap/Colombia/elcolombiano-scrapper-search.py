@@ -11,7 +11,8 @@ from bs4 import BeautifulSoup
 import xlsxwriter
 
 
-url='https://www.elcolombiano.com/busqueda/-/search/pandemia/false/false/19791109/20211109/date/true/true/0/0/meta/0/0/0/'
+#url='https://www.elcolombiano.com/busqueda/-/search/pandemia/false/false/19791109/20211109/date/true/true/0/0/meta/0/0/0/'
+url= 'https://www.elcolombiano.com/busquedas/-/search/milei/false/false/19820319/20240319/date/true/true/0/0/meta/0/0/0/1'
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
 current_page=1772
@@ -38,8 +39,13 @@ list_autores = []
 
 has_next= current_page
 
-while (has_next != ''):
-    print('pagina: '+str(current_page))
+i = 0
+
+#while (has_next != ''):
+while (i < 5):
+    i = i + 1
+    #print('pagina: '+str(current_page))
+    print(f'pagina: {str(current_page)}')
     for n in np.arange(0, number_of_articles):
     
          
@@ -73,7 +79,9 @@ while (has_next != ''):
             
        
             try:
-                title = coverpage_news[n].find('h3', class_='titulo-noticia').find('span').get_text()
+                #title = coverpage_news[n].find('h3', class_='titulo-noticia').find('span').get_text()
+                title = coverpage_news[n].find('div', class_='noticia').find('span').get_text()
+                print(title)
                 list_titles.append(title)
             except:
                 list_titles.append('')
