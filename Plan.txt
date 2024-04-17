@@ -1,6 +1,0 @@
-1-segmentar contenido y copete en oraciones
-2-analisis de sentimientos con el modelo de estrellas sentence x sentence
-3-para cada articulo, neto de +2+1-0-1-2 que determina si es bueno o malo
-    el copete como parte del articuloa
-4-evolucion en el tiempo / postura de cada diario
-    una curva p cada diario
